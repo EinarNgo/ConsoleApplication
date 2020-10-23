@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgbnxHnDGLJLwd0gj0+aZWT+VsD2s1KSTsYeKBgRIWDHMlAE/lzoolH3/UM0a3Aem5tm366MJonMdSg46zj0yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Einar\\Documents\\GitHub\\Blodtrykksapp\\Blodtrykksapp\\Blodtrykksapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Einar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
